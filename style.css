@@ -6,7 +6,7 @@
 
 body{
     font-family: "monserrat", sans-serif;
-    background-image: url(/BG.jpg);
+    background-image: url("./BG.jpg");
     background-size: cover;
     background-position: top center;
 }
